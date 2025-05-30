@@ -1,3 +1,5 @@
+##A React Native module to seamlessly integrate Apple HealthKit data into your iOS apps. Easily read and write health metrics like steps, heart rate, and more — using native bridge support for HealthKit.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
