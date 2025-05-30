@@ -1,0 +1,61 @@
+# OSX
+.DS_Store
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+.pnpm-debug.log
+.pnp/
+.pnp.js
+.pnp.cjs
+
+# React Native
+# Generated files
+android/.gradle/
+android/app/build/
+android/build/
+ios/Pods/
+ios/build/
+ios/DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.lock
+
+# Buck
+buck-out/
+\.buckd/
+.buckconfig.local
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Bundle files
+*.jsbundle
+
+# Optional npm cache directory
+.npm
+
+# Metro
+.expo/
+.expo-shared/
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.keystore
+*.swp
+*~.nib
+*.xcuserstate
+*~.lock
+/.bundle/
+/.yarn/
+/android/app/src/debug/
+/output
+.cxx*
